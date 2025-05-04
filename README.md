@@ -20,7 +20,8 @@ This Power BI dashboard visualizes sales performance over time using sample Supe
 4. The **West region** recorded the **lowest sales**, signaling potential improvement areas.
 
 ## 📁 Files Included
-- `Sales_Performance_Dashboard.pdf` – PDF export of the Power BI dashboard
+- `task8-simple-sales-dashboard-powerbi.pbix` – Power BI project file
+- task8-simple-sales-dashboard-powerbi.pdf` – PDF export of the dashboard
 - `README.md` – This file
 
 ## ⚙️ Tools Used
