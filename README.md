@@ -14,10 +14,13 @@ This Power BI dashboard visualizes sales performance over time using sample Supe
 - Used this column as the time axis in the Monthly Sales Trend chart.
 
 ## 💡 Insights
-1. Sales followed a **downward trend** from early 2023 to the end of 2024.
-2. The **South region** had the highest overall sales during this period.
-3. **Technology** slightly outperformed other categories in total sales.
-4. The **West region** recorded the **lowest sales**, signaling potential improvement areas.
+1. Sales are in a **downward trend** over the period from **Jan 2023 to Dec 2024**, with a noticeable decline starting **mid-2023**.
+
+2. The **South region leads in total sales**, outperforming other regions like **Central, East, and West**.
+
+3. Sales are **evenly distributed across categories**, with **Furniture slightly leading**, followed by **Technology** and **Office Supplies**.
+
+4. The **West region shows the lowest sales**, indicating potential opportunity or underperformance to investigate.
 
 ## 📁 Files Included
 - `task8-simple-sales-dashboard-powerbi.pbix` – Power BI project file
